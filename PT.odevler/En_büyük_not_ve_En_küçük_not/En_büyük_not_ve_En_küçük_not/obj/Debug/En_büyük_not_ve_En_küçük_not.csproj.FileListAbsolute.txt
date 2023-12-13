@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\program temelleri\En_büyük_not_ve_En_küçük_not\En_büyük_not_ve_En_küçük_not\bin\Debug\En_büyük_not_ve_En_küçük_not.exe.config
+C:\Users\User\Desktop\program temelleri\En_büyük_not_ve_En_küçük_not\En_büyük_not_ve_En_küçük_not\bin\Debug\En_büyük_not_ve_En_küçük_not.exe
+C:\Users\User\Desktop\program temelleri\En_büyük_not_ve_En_küçük_not\En_büyük_not_ve_En_küçük_not\bin\Debug\En_büyük_not_ve_En_küçük_not.pdb
+C:\Users\User\Desktop\program temelleri\En_büyük_not_ve_En_küçük_not\En_büyük_not_ve_En_küçük_not\obj\Debug\En_büyük_not_ve_En_küçük_not.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\program temelleri\En_büyük_not_ve_En_küçük_not\En_büyük_not_ve_En_küçük_not\obj\Debug\En_büyük_not_ve_En_küçük_not.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\program temelleri\En_büyük_not_ve_En_küçük_not\En_büyük_not_ve_En_küçük_not\obj\Debug\En_büyük_not_ve_En_küçük_not.exe
+C:\Users\User\Desktop\program temelleri\En_büyük_not_ve_En_küçük_not\En_büyük_not_ve_En_küçük_not\obj\Debug\En_büyük_not_ve_En_küçük_not.pdb

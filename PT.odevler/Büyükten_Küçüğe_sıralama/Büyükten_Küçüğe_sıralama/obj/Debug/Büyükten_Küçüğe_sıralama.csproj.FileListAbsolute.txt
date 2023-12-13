@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\program temelleri\Büyükten_Küçüğe_sıralama\Büyükten_Küçüğe_sıralama\bin\Debug\Büyükten_Küçüğe_sıralama.exe.config
+C:\Users\User\Desktop\program temelleri\Büyükten_Küçüğe_sıralama\Büyükten_Küçüğe_sıralama\bin\Debug\Büyükten_Küçüğe_sıralama.exe
+C:\Users\User\Desktop\program temelleri\Büyükten_Küçüğe_sıralama\Büyükten_Küçüğe_sıralama\bin\Debug\Büyükten_Küçüğe_sıralama.pdb
+C:\Users\User\Desktop\program temelleri\Büyükten_Küçüğe_sıralama\Büyükten_Küçüğe_sıralama\obj\Debug\Büyükten_Küçüğe_sıralama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\program temelleri\Büyükten_Küçüğe_sıralama\Büyükten_Küçüğe_sıralama\obj\Debug\Büyükten_Küçüğe_sıralama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\program temelleri\Büyükten_Küçüğe_sıralama\Büyükten_Küçüğe_sıralama\obj\Debug\Büyükten_Küçüğe_sıralama.exe
+C:\Users\User\Desktop\program temelleri\Büyükten_Küçüğe_sıralama\Büyükten_Küçüğe_sıralama\obj\Debug\Büyükten_Küçüğe_sıralama.pdb

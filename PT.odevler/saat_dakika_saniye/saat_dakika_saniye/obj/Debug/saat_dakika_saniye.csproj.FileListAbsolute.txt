@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\program temelleri\saat_dakika_saniye\saat_dakika_saniye\bin\Debug\saat_dakika_saniye.exe.config
+C:\Users\User\Desktop\program temelleri\saat_dakika_saniye\saat_dakika_saniye\bin\Debug\saat_dakika_saniye.exe
+C:\Users\User\Desktop\program temelleri\saat_dakika_saniye\saat_dakika_saniye\bin\Debug\saat_dakika_saniye.pdb
+C:\Users\User\Desktop\program temelleri\saat_dakika_saniye\saat_dakika_saniye\obj\Debug\saat_dakika_saniye.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\program temelleri\saat_dakika_saniye\saat_dakika_saniye\obj\Debug\saat_dakika_saniye.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\program temelleri\saat_dakika_saniye\saat_dakika_saniye\obj\Debug\saat_dakika_saniye.exe
+C:\Users\User\Desktop\program temelleri\saat_dakika_saniye\saat_dakika_saniye\obj\Debug\saat_dakika_saniye.pdb
